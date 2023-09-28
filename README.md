@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bliind
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on anything
